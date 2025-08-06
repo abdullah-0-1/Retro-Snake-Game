@@ -4,6 +4,9 @@ A **console-based, multiplayer Snake game** built in C++ during my **Programming
 
 ---
 
+**Important Setting**
+- Terminal Font should be Raster Font of 8x8 to see the complete and perfect output
+
 ## 🧩 Game Modes (Levels)
 
 Choose from multiple level types — each with unique mechanics:
